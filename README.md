@@ -36,3 +36,11 @@ The buyFromMerchant function allows a user to buy an item from the merchant. The
 ### Inventory Item Count
 
 The InventoryItemCount function returns the total number of items available in the merchant's inventory.
+
+## Author
+
+John Angelo Yap
+
+Far Eastern University - Institute of Technology
+
+BS Computer Science With Specialization in Software Engineering
